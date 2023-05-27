@@ -6,6 +6,11 @@ body {
   color:black
 }
 
+.img-fluid{
+  width: 100px;
+  height: 100px;
+ }
+
 .my-5{
   color: black;
 }
